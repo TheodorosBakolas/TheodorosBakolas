@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheodorosBakolas
+- 👀 I’m interested in software engineering, data science and especially machine learning.
+- 🌱 I’m currently learning about Neural Networks and Transformers.
+- 📫 Email: thodorisbakolas@gmail.com
